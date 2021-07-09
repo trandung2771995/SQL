@@ -2,6 +2,8 @@
 drop database IF exists `SQL_buoi1`;
 create database if not exists `SQL_buoi1`;
 use `SQL_buoi1`;
+
+##sua bai 1
 drop table if exists `department`;
 CREATE TABLE IF NOT EXISTS `department` (
     `DepartmentID` TINYINT PRIMARY KEY AUTO_INCREMENT,
