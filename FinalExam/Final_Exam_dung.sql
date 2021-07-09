@@ -1,0 +1,1 @@
+SELECT * FROM sql_buoi1.exam;
